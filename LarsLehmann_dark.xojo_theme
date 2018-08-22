@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Theme>
+<Coding>
+<pref name="Code Editor Keywords Color" color="2AA3FF00" />
+<pref name="Code Editor Strings Color" color="F5AA2500" />
+<pref name="Code Editor Numbers Color" color="3FC0F500" />
+<pref name="Code Editor Floating Point Numbers Color" color="61B4DD00" />
+<pref name="Code Editor Source Code Color" color="F3F8FE00" />
+<pref name="Code Editor Comments Color" color="37DB6F00" />
+<pref name="Code Editor Autocomplete Color" color="18BDDB00" />
+<pref name="Code Editor Background" color="19354900" />
+<pref name="Code Editor Cursor Color" color="1650A400" />
+<pref name="Matched Indent Brace Color" color="19C46F00" />
+<pref name="Unmatched Indent Brace Color" color="Default" />
+<pref name="Debugger Highlight Color" color="F84B4700" />
+<pref name="Code Editor URL Color" color="E794FD00" />
+<pref name="Code Editor Source Matching Color" color="45A6F400" />
+<pref name="Code Font" font="Fira Code iScript" />
+<pref name="Code Font Size" size="13" />
+<pref name="Code Editor Text Highlight Color" color="25547600" />
+<pref name="Code Editor Inactive Text Highlight Color" color="9499A400" />
+</Coding>
+</Theme>
