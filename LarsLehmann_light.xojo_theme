@@ -8,16 +8,14 @@
 <pref name="Code Editor Source Code Color" color="37373700" />
 <pref name="Code Editor Comments Color" color="15A64900" />
 <pref name="Code Editor Autocomplete Color" color="Default" />
-<pref name="Code Editor Background" color="F3F6F600" />
-<pref name="Code Editor Cursor Color" color="Default" />
+<pref name="Code Editor Background" color="F9FAFE00" />
+<pref name="Code Editor Cursor Color" color="02265700" />
 <pref name="Matched Indent Brace Color" color="Default" />
 <pref name="Unmatched Indent Brace Color" color="Default" />
 <pref name="Debugger Highlight Color" color="Default" />
-<pref name="Code Editor URL Color" color="6F11FE00" />
+<pref name="Code Editor URL Color" color="6410E700" />
 <pref name="Code Editor Source Matching Color" color="Default" />
 <pref name="Code Font" font="Fira Code iScript" />
 <pref name="Code Font Size" size="13" />
-<pref name="Code Editor Text Highlight Color" color="Default" />
-<pref name="Code Editor Inactive Text Highlight Color" color="Default" />
 </Coding>
 </Theme>
