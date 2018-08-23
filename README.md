@@ -6,7 +6,7 @@ The dark one is inspired by Cobalt2 from Wes Bos.
 
 
 ## the dark theme:
-![xojo dark theme by Lars Lehmann](https://github.com/StadtLandNetz/best_xojo_ide_styles/blob/master/img/theme_dark.png)
+![xojo dark theme by Lars Lehmann](https://github.com/StadtLandNetz/best_xojo_ide_styles/blob/master/img/theme_dark_scr.png)
 
 ## the light theme:
-![xojo light theme by Lars Lehmann](https://github.com/StadtLandNetz/best_xojo_ide_styles/blob/master/img/theme_light.png)
+![xojo light theme by Lars Lehmann](https://github.com/StadtLandNetz/best_xojo_ide_styles/blob/master/img/theme_light_scr.png)
