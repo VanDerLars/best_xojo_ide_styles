@@ -1,6 +1,6 @@
 # best_xojo_ide_styles
 
-Two good Xojo IDE code editor styles that we use. One light, one dark. 
+Three good Xojo IDE code editor styles that we use. One light, one dark. 
 
 The dark one is inspired by Cobalt2 from Wes Bos.
 
