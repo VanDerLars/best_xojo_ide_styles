@@ -13,5 +13,8 @@ _Its is also perfect in Visual Studio Code!_
 ## the dark theme:
 ![xojo dark theme by Lars Lehmann](https://github.com/StadtLandNetz/best_xojo_ide_styles/blob/master/img/theme_dark_scr.png)
 
+## the dark theme with less color:
+![xojo dark theme by Lars Lehmann](https://github.com/StadtLandNetz/best_xojo_ide_styles/blob/master/img/theme_dar_lessColor.png)
+
 ## the light theme:
 ![xojo light theme by Lars Lehmann](https://github.com/StadtLandNetz/best_xojo_ide_styles/blob/master/img/theme_light_scr.png)
